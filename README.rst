@@ -21,6 +21,9 @@ supports:
 .. image:: http://i.imgur.com/2EpRs.jpg
 
 .. image:: https://api.travis-ci.org/coleifer/huey.svg?branch=master
+    :target: https://travis-ci.org/coleifer/huey/
+    :alt: Build Status
+
 
 Huey's API
 ----------
